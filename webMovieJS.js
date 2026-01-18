@@ -1,0 +1,2 @@
+document.getElementById("heading1").textContent = "WELCOME TO MOVIE FINDER!";
+document.getElementById("paragraph1").textContent = "\tThis website is for movies/series lovers. If you are struggling to find a movie or series suitable for you, you can type a movie to get suggestions on similar movies/series!";
